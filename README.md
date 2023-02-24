@@ -1,3 +1,7 @@
+Attempt to port this to ESP32-C3-01s modules by MAYER MAKES
+Some 8266 specific stuff  visible. 
+
+
 # WiFi NIC
 
 ## How to run this
